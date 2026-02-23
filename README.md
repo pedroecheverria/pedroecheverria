@@ -1,6 +1,7 @@
 <h1 align="center">Pedro Echeverría</h1>
 <p align="center">
   Cybersecurity & Network Engineering • Automation with Python • DevSecOps Learner
+                          Me gusta aprender construyendo
 </p>
 
 <p align="center">
