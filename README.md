@@ -9,11 +9,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue" />
-  <img src="https://img.shields.io/badge/Linux-Admin-black" />
-  <img src="https://img.shields.io/badge/Networking-Cisco%20(CCNA)-green" />
-  <img src="https://img.shields.io/badge/Security-OT%20%7C%20IT-orange" />
-  <img src="https://img.shields.io/badge/Tools-GNS3%20%7C%20VMware%20%7C%20FortiGate-informational" />
+  <img src="https://img.shields.io/badge/Python-Automation-blue" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-black" />
+  <img src="https://img.shields.io/badge/Ansible-Automation-red" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Integration%20%26%20Automation-informational" />
+  <img src="https://img.shields.io/badge/Networking-Cisco-green" />
+  <img src="https://img.shields.io/badge/Security-FortiGate%20%7C%20Palo%20Alto-orange" />
+  <img src="https://img.shields.io/badge/VMware-NSX--T-9cf" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-yellow" />
+  <img src="https://img.shields.io/badge/Monitoring-Zabbix-8A2BE2" />
+  <img src="https://img.shields.io/badge/Tools-Wireshark%20%7C%20Nmap-lightgrey" />
 </p>
 
 ---
