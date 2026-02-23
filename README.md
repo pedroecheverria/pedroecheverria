@@ -27,7 +27,7 @@ I’m also learning modern web development and DevSecOps, so I’ll be publishin
 
 ## What I'm focused on now
 - **Network Security**: firewalls, VPNs (IPsec/SSL), segmentation, policies
-- **Automation**: backups/diffs de configs (Oxidized + Git), scripts de análisis de cambios
+- **Network & Security Automation**: backup/versioning for network devices, VPN inventory automation, auto-ticketing for risky or non-compliant changes, etc. 
 - **Web development**: modern frontend + backend basics (building small apps)
 - **DevSecOps fundamentals**: Git workflows, CI/CD basics, automation
 
