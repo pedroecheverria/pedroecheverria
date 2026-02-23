@@ -9,9 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pecheverria98/">LinkedIn</a> ·
   <a href="https://github.com/pedroecheverria?tab=repositories">Repos</a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
